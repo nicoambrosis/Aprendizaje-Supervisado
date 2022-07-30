@@ -3,12 +3,13 @@
 </p>
 
 
-<h1 align='center'><a href="https://diplodatos.famaf.unc.edu.ar/">Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones</a></h1>
+<h2>
+  <a href="https://diplodatos.famaf.unc.edu.ar/">
+    <p align="center"> Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones 
+    </h2>
 
 
-<h1 align='center'>
-Contenido.-
-</h1>
+
 
 ## ➜ Linear Regression
 Notebook: [01_Linear_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br>
