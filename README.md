@@ -15,7 +15,7 @@ Contenido.-
 </h1>
 
 ## ➜ Linear Regression
-Notebook: [01_Linear_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br>
+[01_Linear_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br>
 Dataset: [Diabetes de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)<br>
 `LinearRegression` `mean_squared_error` `r2_score` `plotly.express` `plotly.graph_objects` `datasets.load_diabetes()`
   
