@@ -2,12 +2,8 @@
   <img src="https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/Banners%20Diplodatos.png">
 </p>
 
-<h1 align='center'>
 
-<a href="https://diplodatos.famaf.unc.edu.ar/">
-    <p align="center"> Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones
-    </h1>
-
+<h1 align='center'><a href="https://diplodatos.famaf.unc.edu.ar/">Diplomatura en Ciencia de Datos, Aprendizaje Automatico y sus aplicaciones</a></h1>
 
 
 <h1 align='center'>
@@ -15,12 +11,12 @@ Contenido.-
 </h1>
 
 ## ➜ Linear Regression
-[01_Linear_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br>
+Notebook: [01_Linear_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br>
 Dataset: [Diabetes de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_diabetes.html)<br>
 `LinearRegression` `mean_squared_error` `r2_score` `plotly.express` `plotly.graph_objects` `datasets.load_diabetes()`
   
 ## ➜ Logistic Regression
-Notebook:[02_Logistic_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br> 
+Notebook: [02_Logistic_Regression.ipynb](https://github.com/nicoambrosis/Aprendizaje-Supervisado/blob/main/01_Linear_Regression.ipynb)<br> 
 Dataset: [Iris de Scikit Learn](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html)<br>
 `LogisticRegression` `datasets.load_iris` `sns.pairplot` `plot_decision_boundary`
 
